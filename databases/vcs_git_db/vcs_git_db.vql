@@ -1,5 +1,0 @@
-﻿CREATE OR REPLACE DATABASE vcs_git_db '';
-
-ALTER DATABASE vcs_git_db
-  CHARSET DEFAULT;
-
